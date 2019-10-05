@@ -1,4 +1,4 @@
 # ml_cases
-Machine Learning Cases - Jupyter
-
-Few Machine Learning Cases
+Machine Learning
+1) Cases
+2) Linear Regression
