@@ -4,3 +4,4 @@ Machine Learning
 2) Linear Regression
 3) Logistic Regression
 4) NLP: LSA
+5) Neural Networks (ANN - activation functions: sigmoid, tangh, RELU, softmax)
