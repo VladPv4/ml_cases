@@ -7,3 +7,4 @@ Machine Learning
 5) Supervised Learning: Perceptron
 6) Supervised Learning: KNN/Decision Tree Regression 
 7) Machine Learning as Web Service (Tornado, Pickle, Random Forest Classifier)
+8) Supervised Learning: Ensemble Methods (Bias Variance Tradeoff, Bootstrap, Bagging, Random Forest, AdaBoost)
