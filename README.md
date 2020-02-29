@@ -8,3 +8,4 @@ Machine Learning
 6) Supervised Learning: KNN/Decision Tree Regression 
 7) Machine Learning as Web Service (Tornado, Pickle, Random Forest Classifier)
 8) Supervised Learning: Ensemble Methods (Bias Variance Tradeoff, Bootstrap, Bagging, Random Forest, AdaBoost)
+9) NLP: Article Spinner, Cipher Genetic Algorithm, Latent Semantic Analysis (SVD), Sentiment Analyzer (LogReg), Spam Detection (Naive Bayes, AdaBoost)
